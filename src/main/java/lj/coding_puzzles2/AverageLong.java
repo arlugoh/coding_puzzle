@@ -1,7 +1,8 @@
 package lj.coding_puzzles2;
 
 /**
- * Hello world!
+ * Computes average of 2 longs.
+ * @author lj
  *
  */
 public class AverageLong 
